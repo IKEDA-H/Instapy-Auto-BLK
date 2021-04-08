@@ -2,7 +2,7 @@ from instapy import InstaPy
 from instapy import smart_run
 
 
-session = InstaPy(username = "bluelemonkitchen", password = "bluelemonkitchen1022", headless_browser=False)
+session = InstaPy(username = "bluelemonkitchen", password = "15210009", headless_browser=False)
 
 with smart_run(session):
 
